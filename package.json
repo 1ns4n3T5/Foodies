@@ -15,6 +15,9 @@
     "animate.css": "^4.1.1",
     "bootstrap": "^5.2.2",
     "bootstrap-icons": "^1.9.1",
-    "sass": "^1.55.0"
+    "sass": "^1.55.0",
+    "scrollreveal": "^4.0.9",
+    "typed.js": "^2.0.12",
+    "waypoints": "^4.0.1"
   }
 }
